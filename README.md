@@ -1,13 +1,16 @@
-# Django startproject
-
-A small shell script to start off you django app development. It rids you the hustle of repeating the same processes everytime you start a django project and gets you django application up and running within two strikes of a button. It automates: 
-* Creation of the project folder 
-* Creating and activating virtual enviroment
-* Updating pip to latest version
-* Starting django project *django-admin startproject *
-* Starting an app *python manage.py startapp *
-* Writing to settings.py, urls.py, views.py, tempalates
-* Making migrations and migrating them
+# CreateAppAutomater
+<span>Want to automate creating app and setting configurations in django? Try this 
+small application that does these for you on the fry.</span>
+<ul>
+<span>It automates: </span>
+<li> Creation of the project folder </li>
+<li> Creating and activating virtual enviroment</li>
+<li> Updating pip to latest version</li>
+<li> Starting django project <b>django-admin startproject</b></li>
+<li> Starting an app <b>python manage.py startapp></a></li>
+<li> Writing to settings.py, urls.py, views.py, tempalates</li>
+<li> Making migrations and migrating them</li>
+<p>
 
 
 ## Getting Started
